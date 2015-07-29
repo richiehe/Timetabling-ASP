@@ -1,5 +1,0 @@
-SELECT *
-FROM timetable.course
-INTO OUTFILE 'C:/tmp/year1.txt'
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\r\n';
