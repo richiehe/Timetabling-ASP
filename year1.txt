@@ -1,0 +1,6 @@
+co142,discrete_mathematics,3,1,none,medium,svb
+co112,hardware,3,1,none,medium,bschulle_dfg
+co161,lab,lab,1,none,medium,tora
+co140,logic,3,1,none,medium,imh
+co145,mathematical_methods,8,1,none,medium,jb
+co120,programming,5,1,none,medium,ajf_tora
