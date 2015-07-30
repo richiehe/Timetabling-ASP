@@ -1,7 +1,7 @@
 CREATE TABLE timetable.course
 (
-	code			VARCHAR(6)	NOT NULL,
-    name			VARCHAR(20)	NOT NULL,
+	code			VARCHAR(10)	NOT NULL,
+    name			VARCHAR(50)	NOT NULL,
     hour			VARCHAR(3)	NOT NULL,
     class			VARCHAR(5)	NOT NULL,
     for_specialism	VARCHAR(10)	NOT NULL,
